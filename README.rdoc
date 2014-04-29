@@ -1,0 +1,3 @@
+This QT project has two button in front of you. Draw Line and Draw Circle. Draw Line will lead you to draw line form. 
+Give the coordinates of two points for line and it will draw line for you. Similarly is the case with Circle.
+This applications also tells you how to connect ui forms with button.
